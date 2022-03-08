@@ -14,7 +14,7 @@ https://github.com/samtoneill/congestionbanditgames
 
 
 ## Chapter 3
-
+https://github.com/samtoneill/icmmcmse2020trafficpaper
 
 ## Chapter 4
 
