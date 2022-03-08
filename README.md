@@ -28,5 +28,5 @@ https://colab.research.google.com/drive/1kg3F2BGb3svDG55jD1OABXEStyyYj337?usp=sh
 
 ## Chapter 5
 
-Connected Bin Packing Paper
+### Connected Bin Packing Paper
 https://github.com/samtoneill/connected-bin-packing
